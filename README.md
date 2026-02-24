@@ -8,7 +8,8 @@ This practical task demonstrates **user management, file management, and softwar
 
 ## Step 1 — Open Command Prompt as Administrator
 **Description:** Opened Command Prompt with administrator privileges to perform system-level tasks. Administrator access is required to create users, groups, and modify permissions.
-**Screenshot:** Step1_CMD_Admin.png
+**Screenshot:** Step1_CMD_Admin.png <img width="451" height="141" alt="Step1_CMD_Admin" src="https://github.com/user-attachments/assets/1da1e7aa-4f6f-48a7-a879-4678f7a53d31" />
+
 
 ## Step 2 — Create a New User
 **Description:** Created a new user account named `supportuser` using the `net user` command. This simulates adding a new employee to the system.
